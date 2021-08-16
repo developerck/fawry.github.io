@@ -2,7 +2,7 @@
   
   
 
-## ** **[Paymob](https://www.paymob.com/) Enrolment Plugin Moodle**
+## ** **[Paymob](https://www.paymob.com/) with coupon configuration Enrolment Plugin Moodle**
 
 **Features :-**
 
@@ -13,12 +13,16 @@
        
   - [x]  Pay At Kiosk [Offline Payment] and Auto Enrolment after success
        full payment
+  
+  - [x]  Discount Coupon Implementation
 
 - [x] Standard Moodle Enrolment after student pay for the course
 
 - [x] Full Customizable
 
 - [x] Reports for Site Administrator for all transactions
+
+- [x] Reports for Site Administrator for coupon utilization
 
 - [x] Emails to student / teacher / admin
 
@@ -39,6 +43,8 @@
 ● Set the credential
 
 ● Set the default behaviour
+
+● Coupon Configuration
 
 ● Reports
 
